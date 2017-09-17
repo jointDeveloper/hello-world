@@ -1,5 +1,6 @@
-# hello-world
+# Grupo de Estudio
 
+* Ver plan de estudio (./plan.jpg)
 * [Introducción](./introduccion.md)
 * [Variables](./variables.md)
 * [Solicitar datos e imprimirlos](./input.md)
