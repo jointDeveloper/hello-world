@@ -20,7 +20,13 @@ grandes proyectos de software.
 * __Modified:__ Archivos que han sufrido cambios pero a´un no han confirmados para guardarse en la base de datos local.
 * __Staged:__ Archivos modificados que han sido marcados en su versión actual para que vayan a la próxima confirmación (commit) y se pueden almacenar en la base de datos
 
-Secciones principales de trabajo en Git
+## Secciones principales de trabajo en Git
 * __Working Directory:__ Donde se edita y trabajan los proyectos
 * __Staging area:__ Donde se escoge que archivos están listos para pasar al tercer estado; también se elijen los que no están listos.
 * __Repository:__ Donde se registra todo nuevo proyecto.
+
+## ¿Como funciona GitHub?
+
+Cuando pones algo en GitHub, esa copia vive en uno de los servidores de GitHub. Esto hace que sea un repositorio remoto, ya que no está en tu computadora, sino en un servidor ”remoto” y en otro lugar. Al realizar (pushing) a cambios locales (en su computadora), se mantienen actualizados.
+
+Otras personas siempre pueden obtener lo ´ultimo de tu proyecto tomando (pulling) de tus cambios desde el control remoto (y en su computadora). As´ı es como todos pueden trabajar en un proyecto juntos sin necesidad de tener acceso a tu computadora donde se almacena la copia local.

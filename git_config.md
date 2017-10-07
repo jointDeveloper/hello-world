@@ -1,4 +1,6 @@
-## Instalar Git
+## Instalar Git en Linux y Windows
+
+### Linux
 
 Para instalar Git en un sistema operativo Linux Ubuntu:
 
@@ -48,3 +50,7 @@ Para ver nuestras configuraciones utilizamos el siguiente comando, este nos dar�
 ```
 git config --global --list Esto
 ```
+
+### Windows
+
+Instalar Git en Windows es posible mediante la instalación de GitHub para Windows, este permite tener la interfaz de usuario de Git además de manejarlo por medio de lineas de comando, el instalador puede ser descargado desde [GitHub Desktop](https://desktop.github.com)

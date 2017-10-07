@@ -8,4 +8,7 @@
 * [Tuplas](./tupla.md)
 * [Listas](./lista.md)
 * [Diccionario](./diccionario.md)
-* [Introducción a Git](./git_inicio)
+* [Introducción a Git](./git_inicio.md)
+* [Instalación y configuración de Git](./git_config.md)
+* [GitHub](./github.md)
+* [Como usar git](./git_comandos.md)
