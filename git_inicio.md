@@ -24,3 +24,10 @@ grandes proyectos de software.
 * __Working Directory:__ Donde se edita y trabajan los proyectos
 * __Staging area:__ Donde se escoge que archivos están listos para pasar al tercer estado; también se elijen los que no están listos.
 * __Repository:__ Donde se registra todo nuevo proyecto.
+
+
+By [Oriana Cadavid](https://github.com/OrianaCadavid)
+
+<p style="text-align: center;">
+[Volver](./README.md)
+</p>

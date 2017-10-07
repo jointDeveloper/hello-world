@@ -54,3 +54,10 @@ git config --global --list Esto
 ### Windows
 
 Instalar Git en Windows es posible mediante la instalación de GitHub para Windows, este permite tener la interfaz de usuario de Git además de manejarlo por medio de lineas de comando, el instalador puede ser descargado desde [GitHub Desktop](https://desktop.github.com)
+
+
+By [Oriana Cadavid](https://github.com/OrianaCadavid)
+
+<p style="text-align: center;">
+[Volver](./README.md)
+</p>

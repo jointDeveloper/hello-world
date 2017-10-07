@@ -45,3 +45,8 @@ Es un lenguaje de programación el cual se clasifica como un lenguaje interpreta
 * __Tipado dinámico:__ Las variables no requieren ser definidas asignando el tipo de dato
 
 * __Multiparadigma:__ Puede utilizar diferentes técnicas de programación 
+
+
+<p style="text-align: center;">
+[Volver](./README.md)
+</p>

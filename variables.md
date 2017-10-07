@@ -18,3 +18,8 @@ Al definir una variable se le debe asignar algún tipo de información, este tip
 4. **Listas:** Se explicará más adelante
 5. **Tuplas:** Se explicará más adelante
 6. **Diccionarios** Se explicará más adelante
+
+
+<p style="text-align: center;">
+[Volver](./README.md)
+</p>

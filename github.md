@@ -17,3 +17,10 @@ Un repositorio es una carpeta en la cual se puede guardar todo tipo de archivos,
 Cuando se pone algo en GitHub, esa copia vive en uno de los servidores de GitHub. Esto hace que sea un repositorio remoto, ya que no está en la computadora, sino en un servidor ”remoto” y en otro lugar. Al realizar (pushing) a cambios locales (en su computadora), se mantienen actualizados.
 
 Otras personas siempre pueden obtener lo ´ultimo de tu proyecto tomando (pulling) de los cambios desde el control remoto (y en su computadora). Así es como todos pueden trabajar en un proyecto juntos sin necesidad de tener acceso a la computadora donde se almacena la copia local.
+
+
+By [Oriana Cadavid](https://github.com/OrianaCadavid)
+
+<p style="text-align: center;">
+[Volver](./README.md)
+</p>
