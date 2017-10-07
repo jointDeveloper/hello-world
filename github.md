@@ -2,7 +2,7 @@
 
 _"GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git."_
 
-Para crear una cuenta en GitHub se debe entrar a [github.com](github.com) y registrarse siguiendo las instrucciones.
+Para crear una cuenta en GitHub se debe entrar a [github.com](https://github.com/) y registrarse siguiendo las instrucciones.
 
 
 ## ¿Qué es un repositorio?  

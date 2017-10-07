@@ -53,7 +53,7 @@ archivos con contraseñas.
 
 ### licencia
 
-Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La información sobre los tipos está aquí [choosealicense.com](choosealicense.com)
+Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La información sobre los tipos está aquí [choosealicense.com](https://choosealicense.com)
 
 ## Clonar un repositorio
 
