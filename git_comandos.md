@@ -99,6 +99,4 @@ Resolver el problema de URIJudge llamado ["Extremadamente Básico"](https://www.
 
 By [Oriana Cadavid](https://github.com/OrianaCadavid)
 
-<p style="text-align: center;">
 [Volver](./README.md)
-</p>
