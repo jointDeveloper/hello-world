@@ -92,3 +92,6 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 	```
     Nota: Como recomendación es importante que el mensaje sea claro, y contundente.
 
+## Ejercicio
+
+Resolver el problema de URIJudge llamado ["Extremadamente Básico"](https://www.urionlinejudge.com.br/judge/es/problems/view/1001) y crear un repositorio en GitHub en donde se guarde la solución ya aprobada por el juez.
