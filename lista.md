@@ -29,6 +29,6 @@ mi_lista.remove(dato) # Eliminar el elemento “dato"
 Crear la lista mis_numeros con los valores 1 12 0 10 3 , acceder desde la posición 2 a la 4 , eliminar el valor 12 de la lista y agregar en esta misma posición el valor 100
 
 
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>

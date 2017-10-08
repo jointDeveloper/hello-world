@@ -1,3 +1,5 @@
+By [Oriana Cadavid](https://github.com/OrianaCadavid)
+
 ## ¿Qué es un sistema de control de versiones?
 
 El control de versiones es un sistema que registra los cambios realizados sobre un archivo o conjunto de archivos a lo largo del tiempo de tal manera que sea posible recuperar versiones específicas más adelante. Existen muchos Sistemas de Control de Versiones siendo algunos de los más conocidos CVS, Git, Subversion, Mercurial y Baazar.
@@ -26,8 +28,6 @@ grandes proyectos de software.
 * __Repository:__ Donde se registra todo nuevo proyecto.
 
 
-By [Oriana Cadavid](https://github.com/OrianaCadavid)
-
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>

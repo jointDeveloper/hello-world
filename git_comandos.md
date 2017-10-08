@@ -1,3 +1,5 @@
+By [Oriana Cadavid](https://github.com/OrianaCadavid)
+
 ## Crear un repositorio
 
 Se va a crear una nueva carpeta e inicializarla como un repositorio Git desde nuestra computadora:
@@ -95,9 +97,6 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 ## Ejercicio
 
 Resolver el problema de URIJudge llamado ["Extremadamente Básico"](https://www.urionlinejudge.com.br/judge/es/problems/view/1001) y crear un repositorio en GitHub en donde se guarde la solución ya aprobada por el juez.
-
-
-By [Oriana Cadavid](https://github.com/OrianaCadavid)
 
 
 <h3><p align="center">

@@ -17,6 +17,6 @@ Los operadores aritméticos son símbolos que permiten realizar operaciones mate
 Leer 2 valores enteros y almacenarlos en variables, llamadas `A` y `B` , y sumarlas, asignando el resultado a la variable `X`.
 
 
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>

@@ -20,6 +20,6 @@ Al definir una variable se le debe asignar algún tipo de información, este tip
 6. **Diccionarios** Se explicará más adelante
 
 
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>

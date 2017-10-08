@@ -14,6 +14,6 @@ del(mi_diccionario['clave_2']) # Eliminar un dato
 ```
 
 
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>

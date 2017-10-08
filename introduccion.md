@@ -47,6 +47,6 @@ Es un lenguaje de programación el cual se clasifica como un lenguaje interpreta
 * __Multiparadigma:__ Puede utilizar diferentes técnicas de programación 
 
 
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>

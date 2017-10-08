@@ -1,3 +1,5 @@
+By [Oriana Cadavid](https://github.com/OrianaCadavid)
+
 ## Instalar Git en Linux y Windows
 
 ### Linux
@@ -56,8 +58,6 @@ git config --global --list Esto
 Instalar Git en Windows es posible mediante la instalación de GitHub para Windows, este permite tener la interfaz de usuario de Git además de manejarlo por medio de lineas de comando, el instalador puede ser descargado desde [GitHub Desktop](https://desktop.github.com)
 
 
-By [Oriana Cadavid](https://github.com/OrianaCadavid)
-
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>

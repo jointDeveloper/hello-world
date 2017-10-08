@@ -1,3 +1,5 @@
+By [Oriana Cadavid](https://github.com/OrianaCadavid)
+
 ## ¿Qué es GitHub?
 
 _"GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git."_
@@ -19,8 +21,6 @@ Cuando se pone algo en GitHub, esa copia vive en uno de los servidores de GitHub
 Otras personas siempre pueden obtener lo ´ultimo de tu proyecto tomando (pulling) de los cambios desde el control remoto (y en su computadora). Así es como todos pueden trabajar en un proyecto juntos sin necesidad de tener acceso a la computadora donde se almacena la copia local.
 
 
-By [Oriana Cadavid](https://github.com/OrianaCadavid)
-
-<p style="text-align: center;">
-[Volver](./README.md)
-</p>
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>
