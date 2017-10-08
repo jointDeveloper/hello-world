@@ -25,6 +25,6 @@ Solicitar el nombre de una persona, guardarlo en una variable e imprimirlo en pa
 `Hola Pepita`
 
 
-<<h3><p align="center">
+<h3><p align="center">
 	<a href="./README.md">Volver</a>
 </p></h3>
