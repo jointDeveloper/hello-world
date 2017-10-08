@@ -100,7 +100,6 @@ Resolver el problema de URIJudge llamado ["Extremadamente Básico"](https://www.
 By [Oriana Cadavid](https://github.com/OrianaCadavid)
 
 
-<p align="center">
-	<h3><a href="./README.md">Volver</a></h3>
-</p>
-
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>
