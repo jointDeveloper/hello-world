@@ -23,3 +23,8 @@ mi_tupla[posicion_inicial:posicion_final]
 ## Ejercicio
 
 Crear la tupla `hola_mundo` con los valores “Somos” “laicos”  “Adán”, “nada” “social” “somos” y acceder desde la posición 2 a la 4
+
+
+<h3><p align="center">
+	<a href="./README.md">Volver</a>
+</p></h3>
