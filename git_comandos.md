@@ -27,7 +27,7 @@ Se va a crear una nueva carpeta e inicializarla como un repositorio Git desde nu
 
 	```
 	git status
-	``` 
+	```
 
 	Nos da el estado de nuestro proyecto. Por ejemplo si en nuestra carpeta tenemos algún archivo que no hayamos agregado a nuestro proyecto, con este comando veremos cuál es.
 
@@ -63,11 +63,11 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 
 2. Copiar el link que aparece al hacer click
 
-3. Abrir la terminal y usar el siguiente comando 
+3. Abrir la terminal y usar el siguiente comando
 
 	```
 	git clone <link copiado>
-	``` 
+	```
 
 ## Hacer un commit
 
@@ -75,7 +75,7 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 
 	Abrir un editor de texto (block de notas, sublime, atom, etc) y escribir un par de líneas de texto, tal vez decir hola, y guardar el archivo con el nombre que prefiera
 2. Comprobar el estado del repositorio
-3. Añadir el archivo: 
+3. Añadir el archivo:
 
 	```
 	git add <nombre de archivo>
@@ -89,10 +89,32 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 4. Breve descripciónn de las actualizaciones y guarda los cambios hechos:
 
 	```
-	git commit -m "<your commit message>" 
+	git commit -m "<your commit message>"
 
 	```
     Nota: Como recomendación es importante que el mensaje sea claro, y contundente.
+
+5. Hacer más cambios: Ahora agregua otra lı́nea para readme.txt y guarda. En la terminal, puedes ver la diferencia entre el archivo ahora y cómo fue en su última confirmación:
+
+	```
+	git diff
+
+	```
+	Notas:
+
+	Para agregar todos los archivos:
+	```
+	git Add -a
+
+	```
+	Para ver una lista de todos los commits con su respectiva información:
+
+	```
+	git log
+
+	```
+
+
 
 ## Ejercicio
 
