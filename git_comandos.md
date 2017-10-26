@@ -114,6 +114,16 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 
 	```
 
+	Comando para viajar a través de nuestros
+	commits o nuestras ramas:
+
+	```
+	git checkout
+
+	```
+
+
+
 
 
 ## Ejercicio
