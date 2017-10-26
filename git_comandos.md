@@ -122,7 +122,9 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 
 	```
 
+## GitHubbin
 
+1. Visita github.com y regístrate para obtener una cuenta gratuita.
 
 
 
