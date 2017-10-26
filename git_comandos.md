@@ -107,6 +107,14 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 	git Add -a
 
 	```
+	Para ver una lista de todos los commits con su respectiva información:
+
+	```
+	git log
+
+	```
+
+
 
 ## Ejercicio
 
