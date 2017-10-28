@@ -134,6 +134,22 @@ Un archivo de licencia es el tipo de licencia que pones en tu proyecto. La infor
 	```
 
 
+## Fork and Clones
+
+Bifurca un proyecto de GitHub.com y clónalo localmente.
+
+Ahora has hecho un proyecto a nivel local y lo enviaste a GitHub, pero eso
+es sólo la mitad de la diversión. La otra mitad es trabajar con otras personas y
+proyectos.
+
+Cuando bifurcas (Fork) un repositorio, estás creando una copia de él en su
+cuenta de GitHub. Su fork comienza su vida como un repositorio remoto.
+
+Las horquillas (forks) se utilizan para crear tu propia versión de un proyecto o para contribuir con correcciones o caracterı́sticas al proyecto original.
+
+Una vez que un proyecto se bifurca, a continuación, tu clon de GitHub queda
+en tu computadora para trabajar localmente.
+
 
 
 
